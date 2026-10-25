@@ -1,2 +1,2 @@
-version=3.5.2
+version=2.5.0
 mandatory=false
